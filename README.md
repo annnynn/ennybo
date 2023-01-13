@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Eni
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning HTML/CSS/JS
+- 🚀 Goals: Become React Developer
+- ⭐ Fun Fact: If at least one detail in the code is unclear, I can delete the entire code and start over
 - 📫 How to reach me ennibondarenko@gmail.com
 
 <!---
