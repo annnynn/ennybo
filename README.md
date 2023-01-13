@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eni
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning CSS/JS
+- 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me ennibondarenko@gmail.com
 
 <!---
